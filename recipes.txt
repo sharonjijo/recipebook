@@ -1,0 +1,6 @@
+recipe name:butter chicken
+ingredients
+chicen 1kg
+chillipowder 100g
+pepper 50 g
+salt 2tbs
